@@ -1,14 +1,14 @@
 # PokeMobGo-Issues
 
-[] Main Class
-[] Pokemon Class
-   [] CP Getter/setter
-   [] Name Getter/setter
-   [] Type Getter/setter
-   [] BSpawn Getter/setter
-   [] HP Getter/setter
-[] Pokemons
-      - [ ] Bulbasaur
+- [ ] Main Class
+- [ ] Pokemon Class
+   - [ ] CP Getter/setter
+   - [ ] Name Getter/setter
+   - [ ] Type Getter/setter
+   - [ ] BSpawn Getter/setter
+   - [ ] HP Getter/setter
+- [ ] Pokemons
+   - [ ] Bulbasaur
    - [ ] Ivysaur
    - [ ] Venusaur
    - [ ] Charmander
